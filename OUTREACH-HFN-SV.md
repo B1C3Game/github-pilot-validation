@@ -4,11 +4,11 @@ GitHub repo: https://github.com/B1C3Game/github-pilot-validation
 
 Hej [Namn],
 
-Ni visade intresse för Copilot och AI i praktiska arbetsflöden, så jag följer upp med ett konkret pilotupplägg för B1C3.
+Ni visade intresse for Copilot och AI i praktiska arbetsfloden, sa jag foljer upp med ett konkret pilotupplagg for att minska dokumentrework.
 
 Här är sammanfattningen:
 https://github.com/B1C3Game/github-pilot-validation
 
-Vilket konkret problem ville ni lösa när ni ville ha Copilot-access?
+Vilket dokumentworkflow skapar mest omtag hos er idag, t.ex. flera versioner, sena korrigeringar eller tappad kontext mellan personer?
 
-Om det fortfarande är aktuellt kan vi scopa en 30-dagars pilot på ett av era workflow.
+Om det ar aktuellt kan vi scopa en 30-dagars pilot pa ett workflow med fore/efter-matning av omtagstid.

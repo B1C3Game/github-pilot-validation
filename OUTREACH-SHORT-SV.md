@@ -2,6 +2,8 @@
 
 Split into separate files for easier sending.
 
+Positioning for this batch: documentation rework reduction with measurable before/after outcome.
+
 - OUTREACH-FUNKA-SV.md
 - OUTREACH-MADELEINE-SV.md
 - OUTREACH-HFN-SV.md
