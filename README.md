@@ -1,5 +1,8 @@
 # B1C3 Pilot Validation
 
+This folder is the local working copy of:
+https://github.com/B1C3Game/github-pilot-validation
+
 B1C3 validates cognitive infrastructure on real workflows where AI agents lose coherence over time.
 
 ## What We Solve
