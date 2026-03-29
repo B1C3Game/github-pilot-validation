@@ -3,26 +3,26 @@
 This folder is the local working copy of:
 https://github.com/B1C3Game/github-pilot-validation
 
-B1C3 validates cognitive infrastructure on real workflows where AI agents lose coherence over time.
+B1C3 helps teams reduce document rework and inconsistency in multi-step workflows, where context is lost between handoffs and revisions create expensive loops.
 
 ## What We Solve
 
-- Context loss across sessions
-- Contradictory outputs between steps
-- Unreliable handovers between agent and human
+- Document rework caused by lost context between steps
+- Contradictions between versions, drafts, or reviewers
+- Expensive handoff loops between people, tools, and decisions
 
 ## 30-Day Pilot
 
-- Scope: one workflow, one reliability bottleneck
+- Scope: one workflow, one rework bottleneck
 - Duration: 30 days
-- Delivery: diagnosis, intervention, and measurable before or after result
+- Delivery: diagnosis, intervention, and measurable before/after result
 - Commercial model: low-risk pilot with clear success criteria
 
 ## Ideal Pilot Partner
 
-- Team already running LLM-driven workflows
-- Pain from inconsistency, drift, or brittle memory handling
-- Access to a real process and owner for weekly feedback
+- Team with a document-heavy workflow that already creates rework
+- Pain from inconsistency, late corrections, or messy handoffs
+- Access to a real process owner and a simple baseline metric
 
 ## What You Get
 
